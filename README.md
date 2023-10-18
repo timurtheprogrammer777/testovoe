@@ -1,1 +1,1 @@
-# testovoe
+# Для запуска нужны зависимости - npm i && npm run start
